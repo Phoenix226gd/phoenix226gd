@@ -1,6 +1,6 @@
 <img src="phoenix226logo.png" alt="Phoenix226 logo" width="200"/>
 
-## I'm Phoenix226 👋
+## I'm Phoenix226 👋🧑‍💻
 
 <!--
 **Phoenix226gd/phoenix226gd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
