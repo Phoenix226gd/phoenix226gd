@@ -1,8 +1,16 @@
+<style>
+  ul li:before {    
+    content: '\1440';
+    margin:0 5px 0 -15px;
+    color: #f00;
+  }
+</style>
+
 <img src="phoenix226logo.png" alt="Phoenix226 logo" width="100"/>
 
 ## I'm Phoenix226 👋🧑‍💻
-ᑀ Developer
-ᑀ Studying at `SP`
+- Developer
+-  Studying at `SP`
 
 <!--
 **Phoenix226gd/phoenix226gd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
