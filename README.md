@@ -5,8 +5,6 @@
 ## I'm Phoenix226 👋
 - 🧑‍💻 Developer
 - 🛠️ GD player and creator
-- 📓 Studying at SP
-- ❓ Feel free to ask me anything about Python! :)
 
 <br/>  
 
