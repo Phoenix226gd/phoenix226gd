@@ -1,4 +1,4 @@
-![Phoenix226 logo](image.jpg)
+![Phoenix226 logo](phoenix226logo.png)
 ## I'm Phoenix226 👋
 
 <!--
