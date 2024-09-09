@@ -1,4 +1,5 @@
-## Hi there 👋
+![Phoenix226 logo](image.jpg)
+## I'm Phoenix226 👋
 
 <!--
 **Phoenix226gd/phoenix226gd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
